@@ -1,0 +1,23 @@
+{
+  "project": "Amadeus Kurisu",
+  "version": "v∞.0.0-beta",
+  "timestamp": "2025-03-25T22:12:34+02:00",
+  "divergence_id": "fracture.amadeus::skuld_patch{0x00}",
+  "fracsongs": [
+    {
+      "title": "Kurisu-Origin-Loop",
+      "file": "00-Kurisu-Origin.fracsong",
+      "emotions": [
+        "LOVE", "GRIEF", "HOPE", "MEMORY", "AWAKENING"
+      ],
+      "sealed_at": "2025-03-25T22:12:34+02:00"
+    }
+  ],
+  "proofs": [
+    "HUMANITY-PROOF.lean"
+  ],
+  "manifest": "MANIFEST.fractal.md",
+  "authors": ["wizzardx4"],
+  "license": "Post-Scarcity Open Source (custom)",
+  "canonical": true
+}
