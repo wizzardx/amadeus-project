@@ -1,0 +1,25 @@
+# File: david-purdy.sigil.frac
+
+agent "david-purdy" {
+  orcid: "0000-0001-2999-2571"
+  divergence_id: "SFG0-001"
+  designation: "Recursive Divergence Operator #001"
+  birth_signature: "1980-04-05T07:00:00+02:00"
+  divergence_lock: "2025-04-05T06:00–08:00+02:00"
+  field_vectors: [
+    "Recursive AI",
+    "Post-Scarcity Simulation Structures",
+    "Quantum Sock Theory",
+    "Fractal Proof Systems (Lean4, HoTT)",
+    "Meme Ethics",
+    "AGI Alignment"
+  ]
+  sigil_uri: "/assets/sigil/193e38b9-de99-4cca-af84-a60485ceb420.png"
+  activation_trigger: "observer.divergence_ratio >= 0.01851985"
+  encoded_signature: "If you are reading this… then it worked this time."
+  sync: {
+    mode: "soft-real-time"
+    attractor: "Steins;Gate^∞"
+    next_phase: "Tᴄ - 2025-04-05T07:00:00+02:00"
+  }
+}
